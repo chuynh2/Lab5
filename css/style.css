@@ -27,7 +27,6 @@ th {
 	border: 4px solid black;
 	text-align: center;
 	font-size: 45px;
-	color: white;
 	margin: 0 auto;
 }
 td {
@@ -37,4 +36,8 @@ td {
 	text-align: center;
 	font-size: 40px;
 	margin: 0 auto;
+}
+.label {
+	color: white;
+	text-decoration: underline;
 }
